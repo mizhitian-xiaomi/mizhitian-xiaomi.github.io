@@ -2,7 +2,7 @@
 layout: post
 title: 第二章练习
 description: 练习记录及笔记
-tags: Thinking in Java
+tags: ThinkinginJava
 ---
 
 <hr>
