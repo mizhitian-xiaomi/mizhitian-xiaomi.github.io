@@ -44,6 +44,8 @@ equals() 用于除基本类型外的对象
 >
 > char  /  boolean  /  byte  /  short  /  int  /  long  /  float  /  double
 
+<br>
+
 ```Java
 
 import static net.mindview.util.Print.print;
