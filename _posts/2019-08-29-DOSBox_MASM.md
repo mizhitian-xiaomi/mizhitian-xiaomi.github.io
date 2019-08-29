@@ -23,7 +23,7 @@ tags: Handbooks
 
   >  如果找不到自己安装在哪里了，可以右击桌面的快捷方式，再点击`打开文件所在位置`      
 
-![1567074804362](C:\Users\mizhitian\AppData\Roaming\Typora\typora-user-images\1567074804362.png)
+![1567074804362]images\posts\1567074804362.png)
 
 * 在用DOSBox的过程中受不了界面实在太小了，这一步是更改界面大小的，有需要的自行更改**非必要步骤**
 	
@@ -31,7 +31,7 @@ tags: Handbooks
  >
  > 绿色框选的是默认配置，红色是我更改界面大小的配置
 
- ![1567074891958](C:\Users\mizhitian\AppData\Roaming\Typora\typora-user-images\1567074891958.png)
+ ![1567074891958](images\posts\1567074891958.png)
 
 ### DODBox自动挂载
 
@@ -47,17 +47,17 @@ tags: Handbooks
 
      `mount <盘名> <目录路径> `         将<盘名>放在<目录路径>下
 > 我挂载在当前目录的playground文件夹下
-> ![1567074915041](C:\Users\mizhitian\AppData\Roaming\Typora\typora-user-images\1567074915041.png)
+> ![1567074915041]images\posts\1567074915041.png)
 >
 >   2. 运行DOSBox
 
      `<盘名>:`         进入该盘（你刚刚挂载的盘）
 
 不区分大小写
-![1567076062039](C:\Users\mizhitian\AppData\Roaming\Typora\typora-user-images\1567076062039.png)
+![1567076062039]images\posts\1567076062039.png)
 
 
-没有挂载则会报错![1567075960875](C:\Users\mizhitian\AppData\Roaming\Typora\typora-user-images\1567075960875.png)
+没有挂载则会报错![1567075960875]images\posts\1567075960875.png)
 
 **大功告成！！！**
 
@@ -65,7 +65,7 @@ tags: Handbooks
 
 ### MASM使用
 
-将masm全部拉到你挂载的目录下![1567076156927](C:\Users\mizhitian\AppData\Roaming\Typora\typora-user-images\1567076156927.png)
+将masm全部拉到你挂载的目录下![1567076156927](images\posts\1567076156927.png)
 
 2. 新建一个**.asm**的测试程序
 
@@ -73,11 +73,11 @@ tags: Handbooks
 
    * 输入`masm`，再输入测试程序，一直回车就可以了，最后结果会得到一个`.obj`文件
 
-     ![1567076307770](C:\Users\mizhitian\AppData\Roaming\Typora\typora-user-images\1567076307770.png)
+     ![1567076307770](images\posts\1567076307770.png)
 
 	* 输入`link`，执行上一步得到的`.obj`文件，其他步骤同上，得到一个`.exe`文件
 	
-	  ![1567076454482](C:\Users\mizhitian\AppData\Roaming\Typora\typora-user-images\1567076454482.png)
+	  ![1567076454482](images\posts\1567076454482.png)
 	
 	* 执行`debug`，执行上一步得到的`.exe`文件
 	
@@ -87,7 +87,7 @@ tags: Handbooks
 	
 	  debug还有很多命令，自行探索，同为小白我还不会（尬笑...
 	
-	  ![1567076678562](C:\Users\mizhitian\AppData\Roaming\Typora\typora-user-images\1567076678562.png)
+	  ![1567076678562](images\posts\1567076678562.png)
 
 
 
