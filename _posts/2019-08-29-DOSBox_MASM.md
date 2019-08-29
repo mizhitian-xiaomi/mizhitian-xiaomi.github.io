@@ -16,12 +16,14 @@ tags: Handbooks
 
 # 安装DOSBox
 
-<br>
+---
 
 一直下一步就好了，选择安装位置的时候可以自定义，全凭个人习惯。
 <br>
 
 ### DOSBox更改界面大小
+
+​        在用DOSBox的过程中受不了界面实在太小了，这一步是更改界面大小的，有需要的自行更改，**非必要步骤**。
 
 * 来到安装目录下，打开配置文件进行设置
 
@@ -29,13 +31,9 @@ tags: Handbooks
 
 ![1567074804362](https://raw.githubusercontent.com/mizhitian-xiaomi/mizhitian-xiaomi.github.io/master/images/posts/1567074804362.png)
 
-* 在用DOSBox的过程中受不了界面实在太小了，这一步是更改界面大小的，有需要的自行更改**非必要步骤**
-	
  > 在配置语句前加#是注释的意思
- >
- > 绿色框选的是默认配置，红色是我更改界面大小的配置
-
- ![1567074891958](https://raw.githubusercontent.com/mizhitian-xiaomi/mizhitian-xiaomi.github.io/master/images/posts/1567074891958.png)
+ > 
+ > 绿色框选的是默认配置，红色是我更改界面大小的配置![1567074891958](https://raw.githubusercontent.com/mizhitian-xiaomi/mizhitian-xiaomi.github.io/master/images/posts/1567074891958.png)
 
 ### DODBox自动挂载
 
@@ -45,7 +43,7 @@ tags: Handbooks
   >
   > 挂载的意思其实就是.....(以下个人理解有误请指正)
   >
-  > >  你的C盘放在哪里，模拟DOS操作系统的资源管理，这个目录被指定为C盘
+  > >  你的C盘放在哪里，这个目录被指定为C盘，模拟DOS操作系统的资源管理
 
   1. 在配置文件添加
 
@@ -53,21 +51,25 @@ tags: Handbooks
 > 我挂载在当前目录的playground文件夹下
 > ![1567074915041](https://raw.githubusercontent.com/mizhitian-xiaomi/mizhitian-xiaomi.github.io/master/images/posts/1567074915041.png)
 >
->   2. 运行DOSBox
+  2. 运行DOSBox
 
      `<盘名>:`         进入该盘（你刚刚挂载的盘）
 
-不区分大小写
+**不区分大小写**
+
 ![1567076062039](https://raw.githubusercontent.com/mizhitian-xiaomi/mizhitian-xiaomi.github.io/master/images/posts/1567076062039.png)
 
+**没有挂载则会报错**
 
-没有挂载则会报错![1567075960875](https://raw.githubusercontent.com/mizhitian-xiaomi/mizhitian-xiaomi.github.io/master/images/posts/1567075960875.png)
+![1567075960875](https://raw.githubusercontent.com/mizhitian-xiaomi/mizhitian-xiaomi.github.io/master/images/posts/1567075960875.png)
 
 **大功告成！！！**
 
 <br>
 
 # MASM使用
+
+---
 
 <br>
 
