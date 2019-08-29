@@ -1,5 +1,5 @@
 ---
-》layout: post
+layout: post
 title: DOSBox与MASM环境搭载及简单使用
 description: 汇编程序设计课实验环境搭载
 tags: Handbooks
@@ -27,7 +27,7 @@ tags: Handbooks
 
   >  如果找不到自己安装在哪里了，可以右击桌面的快捷方式，再点击`打开文件所在位置`      
 
-![1567074804362]mizhitian-xiaomi.github.io\images\posts\1567074804362.png)
+![1567074804362](https://raw.githubusercontent.com/mizhitian-xiaomi/mizhitian-xiaomi.github.io/master/images/posts/1567074804362.png)
 
 * 在用DOSBox的过程中受不了界面实在太小了，这一步是更改界面大小的，有需要的自行更改**非必要步骤**
 	
