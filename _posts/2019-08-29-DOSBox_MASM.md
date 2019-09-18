@@ -9,7 +9,7 @@ tags: Handbooks
 
 > DOSBox和MASM下载链接
 >
-> 链接：https://pan.baidu.com/s/1Y21S4IJ5PYMXELMDU1nJjQ 
+> 链接：https://pan.baidu.com/s/1Y21S4IJ5PYMXELMDU1nJjQ   
 > 提取码：iusk 
 
 <br>
@@ -35,7 +35,7 @@ tags: Handbooks
  > 
  > 绿色框选的是默认配置，红色是我更改界面大小的配置![1567074891958](https://raw.githubusercontent.com/mizhitian-xiaomi/mizhitian-xiaomi.github.io/master/images/posts/1567074891958.png)
 
-### DODBox自动挂载
+### DOSBox自动挂载
 
 * 同样也是更改配置文件，我们把配置文件拉到底端就可以看见下面图片的位置
 
@@ -45,13 +45,13 @@ tags: Handbooks
   >
   > >  你的C盘放在哪里，这个目录被指定为C盘，模拟DOS操作系统的资源管理
 
-  1. 在配置文件添加
+1. 在配置文件添加
 
      `mount <盘名> <目录路径> `         将<盘名>放在<目录路径>下
 > 我挂载在当前目录的playground文件夹下
 > ![1567074915041](https://raw.githubusercontent.com/mizhitian-xiaomi/mizhitian-xiaomi.github.io/master/images/posts/1567074915041.png)
 >
-  2. 运行DOSBox
+2. 运行DOSBox
 
      `<盘名>:`         进入该盘（你刚刚挂载的盘）
 
