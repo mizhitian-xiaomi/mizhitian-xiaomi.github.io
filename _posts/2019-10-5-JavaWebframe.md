@@ -2,7 +2,7 @@
 layout: post
 title: JavaWeb 三层框架
 description: Javaweb理论
-tags: JavaWeb
+tags: Java
 ---
 
 

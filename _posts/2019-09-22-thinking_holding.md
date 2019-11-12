@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 第11章【持有对象】 -好记性不如烂笔头
+title: 第11章【持有对象】 -好记性不如烂笔头 ThinkinginJava
 description: thinking in java 摘录or笔记or理解
-tags: ThinkinginJava
+tags: Java
 ---
 
 Apple类与Orange类除了都是Object外没有任何共性，ArrayList保存的是Object，因此我们不但可以通过add()方法将Apple对象放入这个容器，还可以放Orange对象。
